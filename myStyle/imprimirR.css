@@ -1,0 +1,49 @@
+body{
+	margin-top: 5em;
+}
+.container{
+	border:2px solid;
+	 border-radius: 5px;
+	 padding: 10px 50px 10px 50px;
+	 width: 80%;
+}
+.titulo{
+	padding: 20px 0px 0px 10px;
+}
+.contenido{
+	margin-top: 30px;
+}
+.cabecera{
+	padding-bottom: 10px;
+	border-bottom: 2px solid;
+	
+}
+
+.colConcepto{
+	padding: 0px 50px 0px 50px;
+}
+.renTotal{
+	/*border-left: 1px solid;
+	border-right: 1px solid;
+	border-bottom: 1px solid;*/
+	margin-left: 25%;
+
+}
+.renContenido{
+	padding-bottom: 20px;
+	border-bottom: 1px solid;
+
+}
+.renTotal > div{
+
+	padding-left: 5px;
+}
+.spanTotal{
+	margin-left: 50px;
+}
+#total{
+	padding-left: 150px;
+}
+.infoFecha{
+	padding-left: 30px;
+}
